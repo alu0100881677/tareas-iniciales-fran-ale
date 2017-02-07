@@ -3,7 +3,7 @@ Procesadores de Lenguaje
 #### Prática 01
 Tareas iniciales [enlace](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html)
 ##### Profesor
-[Casiano Rodríguez León](www.google.es)
+[Casiano Rodríguez León](https://github.com/crguezl)
 ##### Alumnos
 [Francisco Palacios Rodríguez](https://github.com/franjpr)  
 [Alejandro Hernandez Padrón](https://github.com/alehdezp)
