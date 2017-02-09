@@ -6,7 +6,10 @@ para ello es crear una rama **gh-pages** y tener el index.html a mostrar.
 
 Pasos:
 * Crear un repositorio con un readme en github.
+
 ![create repo](imgs/create.png)  
+
+
 ![create repo](imgs/create2.png)  
 
 *  Creamos una rama GitHub-Pages
