@@ -5,26 +5,25 @@ GitHub ofrece un servicio de alojamiento web para repositorios, la única condic
 para ello es crear una rama **gh-pages** y tener el index.html a mostrar.
 
 Pasos:
-1. Crear un repositorio con un readme en github.
+* Crear un repositorio con un readme en github.
+![create repo](imgs/create.png)  
+![create repo](imgs/create2.png)  
 
-    ![create repo](imgs/create.png)  
-    ![create repo](imgs/create2.png)  
+*  Creamos una rama GitHub-Pages
 
-2.  Creamos una rama GitHub-Pages
+![create repo](imgs/bramch.png)  
 
-    ![create repo](imgs/bramch.png)  
+* Añadimos un fichero y lo llamamos index.html
 
-3. Añadimos un fichero y lo llamamos index.html
+![create repo](imgs/new.png)  
 
-    ![create repo](imgs/new.png)  
+![create repo](imgs/index.png)  
 
-    ![create repo](imgs/index.png)  
-
-4. Hacemos el commit
+* Hacemos el commit
 
   ![create repo](imgs/commit.png)  
 
-5. Y listo! Para acceder a la gh-pages de nuestro repo usamos la siguiente url '**username**.github.io/**repo-name**'
+* Y listo! Para acceder a la gh-pages de nuestro repo usamos la siguiente url '**username**.github.io/**repo-name**'
 
   **https://franjpr.github.io/test/**
 
