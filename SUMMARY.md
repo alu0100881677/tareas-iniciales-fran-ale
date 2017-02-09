@@ -1,8 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [Descripción de la tarea](README.md)
 * [Instalación de aplicaciones](instalacion-de-aplicaciones.md)
-* [Documentación de Markdown](markdown.md)
-* [gh-pages](gh-pages.md)
+* [Markdown](markdown.md)
+* [GH-Pages](gh-pages.md)
 * [Pandoc](pandoc.md)
-
