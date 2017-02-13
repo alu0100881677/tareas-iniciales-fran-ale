@@ -16,7 +16,7 @@ Hacer un tutorial con [gitbook](https://www.gitbook.com) de los siguentes puntos
 - [ ] Instalar Gitbook Desktop
 - [x] Crear una gh-page
 - [x] Documentación de MarkDown
-- [ ] Instrucciones para usar PanDoc
+- [x] Instrucciones para usar PanDoc
 
 [Enlace](https://github.com/ULL-ESIT-PL-1617/tareas-iniciales-fran-ale) a la practica  
 [Gh-page](https://alehdezp.github.io/) Alejandro HP  
