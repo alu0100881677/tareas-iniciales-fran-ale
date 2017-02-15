@@ -5,9 +5,9 @@ A continuacion veremos una sencilla guia de como instalar las siguientes aplic
 
 ##NodeJS
 
-**NodeJS** es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos, que lo hace liviano y eficiente
+**NodeJS** es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos, que lo hace liviano y eficiente.
 
-El cual se puede descargar desde el siguiente enlace [nodejs.org](https://nodejs.org/es/download/)
+El cual se puede descargar desde el siguiente enlace [nodejs.org](https://nodejs.org/es/download/).
 
 ###Instalacion
 
@@ -23,14 +23,14 @@ Y el comando: <pre>npm -v</pre>
 
 ![node version](imgs/npm.PNG)
 
-Al obtener la salida de los dos comandos con las versiones de node y npm respectivamente podemos confirmar la instalacion de los dos comandos
+Al obtener la salida de los dos comandos con las versiones de node y npm respectivamente podemos confirmar la instalacion de los dos comandos.
 
 
 ##Git/Git for Windows
 
 **Git** es un software de control de versiones, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
-Para instalar git para Windows en [Git-for-Windows](https://git-scm.com/download/win) y para Mac en [Git-for-Mac](https://git-scm.com/download/mac)
+Para instalar git para Windows en [Git-for-Windows](https://git-scm.com/download/win) y para Mac en [Git-for-Mac](https://git-scm.com/download/mac).
 
 ###Instalación
 
@@ -40,4 +40,11 @@ Para las instalaciones en Windows y en Mac procedemos a seguir la instrucciones 
 
 Para instalar instalar en un sistema Debian/Ubuntu lo podremos hacer con el siguiente comando: 
 <pre>sudo apt-get install git </pre>
-En caso de tener otra distribución de Linux visita este enlace para poder instalar [Git](https://git-scm.com/download/linux)
+En caso de tener otra distribución de Linux visita este enlace para poder instalar [Git](https://git-scm.com/download/linux).
+
+Para comprobar la instalación ejectamos en la terminal el comando: <pre> git --version </pre>
+![git win](imgs/gitv.PNG)
+
+
+
+##
