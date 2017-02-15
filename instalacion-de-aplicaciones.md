@@ -39,8 +39,7 @@ Para las instalaciones en Windows y en Mac procedemos a seguir la instrucciones 
 ![git win](imgs/gitw.PNG)
 
 Para instalar instalar en un sistema Debian/Ubuntu lo podremos hacer con el siguiente comando: 
-<pre>sudo apt-get install git </pre>
-En caso de tener otra distribución de Linux visita este enlace para poder instalar [Git](https://git-scm.com/download/linux).
+<pre>sudo apt-get install git </pre> En caso de tener otra distribución de Linux visita este enlace para poder instalar [Git](https://git-scm.com/download/linux).
 
 Para comprobar la instalación ejectamos en la terminal el comando: <pre> git --version </pre> ![git win](imgs/gitv.PNG)
 
