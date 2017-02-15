@@ -18,4 +18,4 @@ Para verificar la instalacion de NodeJS, abrimos una terminal y ejecutamos el co
 
 ![node version](imgs/commit.png)
 
-![pandoc verify](imgs/pandoc1.png)
+![pandoc verify](imgs/commit.png)
