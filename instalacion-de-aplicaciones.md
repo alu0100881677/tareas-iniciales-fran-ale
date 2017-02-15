@@ -26,4 +26,14 @@ Y el comando: <pre>npm -v</pre>
 Al obtener la salida de los dos comandos con las versiones de node y npm respectivamente podemos confirmar la instalacion de los dos comandos
 
 
-##
+##Git/Git for Windows
+
+**Git** es un software de control de versiones, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
+
+Para instalar git para Windows en [Git-for-Windows](https://git-scm.com/download/win) y para Mac en [Git-for-Mac](https://git-scm.com/download/mac)
+
+###Instalación
+
+Para las instalaciones en Windows y en MAc procedemos a seguir la instrucciones y preferencias que deseemos a la hora de instalar Git.
+
+![git win](imgs/gitw.PNG)
