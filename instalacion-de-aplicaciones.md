@@ -22,3 +22,8 @@ Para verificar la instalacion de NodeJS, abrimos una terminal y ejecutamos el co
 Y el comando: <pre>npm -v</pre>
 
 ![node version](imgs/npm.PNG)
+
+Al obtener la salida de los dos comandos con las versiones de node y npm respectivamente podemos confirmar la instalacion de los dos comandos
+
+
+##
