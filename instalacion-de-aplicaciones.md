@@ -42,8 +42,7 @@ Para instalar instalar en un sistema Debian/Ubuntu lo podremos hacer con el sigu
 <pre>sudo apt-get install git </pre>
 En caso de tener otra distribución de Linux visita este enlace para poder instalar [Git](https://git-scm.com/download/linux).
 
-Para comprobar la instalación ejectamos en la terminal el comando: <pre> git --version </pre>
-![git win](imgs/gitv.PNG)
+Para comprobar la instalación ejectamos en la terminal el comando: <pre> git --version </pre> ![git win](imgs/gitv.PNG)
 
 
 
