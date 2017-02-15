@@ -15,6 +15,10 @@ Para instalar NodeJS descargamos el instalador de la pagina oficial para nuestro
 
 Seguimos los pasos indicados en el instalador los cuales nos permitiran ejecutar los comandos "npm" y "node" en la terminal.
 
-Para verificar la instalacion de NodeJS, abrimos una terminal y ejecutamos el comando<pre>node --version</pre>
+Para verificar la instalacion de NodeJS, abrimos una terminal y ejecutamos el comando:<pre>node --version</pre>
 
 ![node version](imgs/nodeversion.PNG)
+
+Y el comando: <pre>npm -v</pre>
+
+![node version](imgs/npm.PNG)
