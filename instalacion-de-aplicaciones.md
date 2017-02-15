@@ -1,6 +1,7 @@
 Instalación de aplicaciones
 ==
 
+A continuacion veremos una sencilla guia de como instalar las siguientes aplic
 
 ##NodeJS
 
@@ -16,6 +17,4 @@ Seguimos los pasos indicados en el instalador los cuales nos permitiran ejecutar
 
 Para verificar la instalacion de NodeJS, abrimos una terminal y ejecutamos el comando<pre>node --version</pre>
 
-![node version](imgs/commit.png)
-
-![pandoc verify](imgs/commit.png)
+![node version](imgs/commit.PNG)
