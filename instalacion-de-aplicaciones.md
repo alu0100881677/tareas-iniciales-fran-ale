@@ -51,7 +51,7 @@ Para comprobar la instalación ejectamos en la terminal el comando: <pre> git --
 
 La instalacion de este editor de texto es muy sencilla, basta con descargarlo en el siguiente enlace [atom.io](https://atom.io/) y ejectar el archivo y tras su ejecucion ya estamos listos para poder utilizar **Atom**.
 
-![Atom](imgs/atom.PNG)
+![Atom](imgs/Atom.PNG)
 
 ![Atom](imgs/atom2.png)
 
