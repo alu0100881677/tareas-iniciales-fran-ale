@@ -53,7 +53,7 @@ La instalacion de este editor de texto es muy sencilla, basta con descargarlo en
 
 ![Atom](imgs/atom.PNG)
 
-![Atom](imgs/atom2.PNG)
+![Atom](imgs/atom2.png)
 
 
 ##GitBook
