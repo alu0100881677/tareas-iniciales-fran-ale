@@ -58,6 +58,8 @@ La instalacion de este editor de texto es muy sencilla, basta con descargarlo en
 
 ##GitBook
 
-**GitBook** es una excelente herramienta para crear documentación de proyectos y libros técnicos usando Markdown y Git/Github. GitBook tiene una version de escritorio la cual nos permite editar nuestros libros desde nuestra propia maquina y realizar un push de los cambios a nuestra cuenta de repositorio ya sea de **GitHub o **GitBook**
+**GitBook** es una excelente herramienta para crear documentación de proyectos y libros técnicos usando Markdown y Git/Github. 
+
+GitBook tiene una version de escritorio la cual nos permite editar nuestros libros desde nuestra propia maquina y realizar un push de los cambios a nuestra cuenta de repositorio ya sea de **GitHub** o **GitBook**.
 
 ![Atom](imgs/gitbook.PNG)
